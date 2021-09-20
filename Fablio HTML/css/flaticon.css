@@ -1,0 +1,185 @@
+@font-face {
+    font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff2") format("woff2"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-botton:before {
+    content: "\f101";
+}
+.flaticon-chat:before {
+    content: "\f102";
+}
+.flaticon-clock:before {
+    content: "\f103";
+}
+.flaticon-coat:before {
+    content: "\f104";
+}
+.flaticon-delivery-truck:before {
+    content: "\f105";
+}
+.flaticon-dressmaker:before {
+    content: "\f106";
+}
+.flaticon-email-1:before {
+    content: "\f107";
+}
+.flaticon-email-2:before {
+    content: "\f108";
+}
+.flaticon-email:before {
+    content: "\f109";
+}
+.flaticon-fabric-1:before {
+    content: "\f10a";
+}
+.flaticon-fabric-2:before {
+    content: "\f10b";
+}
+.flaticon-fabric:before {
+    content: "\f10c";
+}
+.flaticon-factory:before {
+    content: "\f10d";
+}
+.flaticon-flameproof-fabric:before {
+    content: "\f10e";
+}
+.flaticon-iron:before {
+    content: "\f10f";
+}
+.flaticon-jacket:before {
+    content: "\f110";
+}
+.flaticon-jeans:before {
+    content: "\f111";
+}
+.flaticon-knitting-1:before {
+    content: "\f112";
+}
+.flaticon-knitting:before {
+    content: "\f113";
+}
+.flaticon-measuring-tape:before {
+    content: "\f114";
+}
+.flaticon-moisture-wicking-fabric:before {
+    content: "\f115";
+}
+.flaticon-needlework:before {
+    content: "\f116";
+}
+.flaticon-phone-call:before {
+    content: "\f117";
+}
+.flaticon-placeholder:before {
+    content: "\f118";
+}
+.flaticon-play:before {
+    content: "\f119";
+}
+.flaticon-print:before {
+    content: "\f11a";
+}
+.flaticon-returning:before {
+    content: "\f11b";
+}
+.flaticon-rug:before {
+    content: "\f11c";
+}
+.flaticon-sewing-machine:before {
+    content: "\f11d";
+}
+.flaticon-sewing:before {
+    content: "\f11e";
+}
+.flaticon-shipped:before {
+    content: "\f11f";
+}
+.flaticon-silk-1:before {
+    content: "\f120";
+}
+.flaticon-silk:before {
+    content: "\f121";
+}
+.flaticon-socks:before {
+    content: "\f122";
+}
+.flaticon-suit:before {
+    content: "\f123";
+}
+.flaticon-t-shirt:before {
+    content: "\f124";
+}
+.flaticon-telephone-1:before {
+    content: "\f125";
+}
+.flaticon-telephone:before {
+    content: "\f126";
+}
+.flaticon-textile-1:before {
+    content: "\f127";
+}
+.flaticon-textile-2:before {
+    content: "\f128";
+}
+.flaticon-textile:before {
+    content: "\f129";
+}
+.flaticon-textiles-1:before {
+    content: "\f12a";
+}
+.flaticon-textiles:before {
+    content: "\f12b";
+}
+.flaticon-tshirt-1:before {
+    content: "\f12c";
+}
+.flaticon-tshirt:before {
+    content: "\f12d";
+}
+.flaticon-vest:before {
+    content: "\f12e";
+}
+.flaticon-wallet:before {
+    content: "\f12f";
+}
+.flaticon-warehouse-1:before {
+    content: "\f130";
+}
+.flaticon-warehouse:before {
+    content: "\f131";
+}
+.flaticon-water-resistant:before {
+    content: "\f132";
+}
+.flaticon-wool-1:before {
+    content: "\f133";
+}
+.flaticon-wool:before {
+    content: "\f134";
+}
+.flaticon-yarn-1:before {
+    content: "\f135";
+}
+.flaticon-yarn:before {
+    content: "\f136";
+}
